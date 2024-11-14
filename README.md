@@ -86,7 +86,12 @@
 	- 캐릭터 정보(이미지, 이름, 특징, 스탯)
 ### 아이템 상점
 - 아이템 구매, 판매
-## UI 와이어 프레임
+
+## 디펜스(수성전)
+### 전투 시스템
+- 수성전은 병사들도 동원하여 디펜스를 한다.
+
+# UI 와이어 프레임
   https://www.figma.com/design/f5IA4rP2VQxONeDRvpJA9F/Commander-of-Iron-and-Blood_ver-capsule?t=z8WxOlNgTvg5PWHo-1
   
 # 구현 사항
