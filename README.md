@@ -1,5 +1,7 @@
 # Commander-of-Iron-and-Blood_ver-capsule
  철혈의 지휘관(ver. capsule)
+
+# 게임 정보
  
 장르: 3D 쿼터뷰 지휘관 전쟁 시뮬레이션 전략 게임
 
