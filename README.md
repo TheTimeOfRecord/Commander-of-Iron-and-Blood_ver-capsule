@@ -1,6 +1,9 @@
 # Commander-of-Iron-and-Blood_ver-capsule
  철혈의 지휘관(ver. capsule)
 
+**[UI 와이어 프레임]**
+![](https://velog.velcdn.com/images/wanna_make_game/post/15999095-71af-46ae-9d1f-1fa2aa6b9cb6/image.PNG)
+
 # 게임 소개
  
 장르: 3D 쿼터뷰 방치형 3D RPG 디펜스 게임
