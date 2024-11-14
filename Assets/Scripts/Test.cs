@@ -7,7 +7,7 @@ public class Test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        UIManager.Instance.OpenUI<UIMain>();
+        UIManager.Instance.OpenUI<UICastleWall>();
     }
 
 }
